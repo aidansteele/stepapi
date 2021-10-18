@@ -20,6 +20,9 @@
     "@aws-cdk/core": "1.128.0"
   },
   "dependencies": {
+    "@aws-cdk/aws-apigateway": "^1.128.0",
+    "@aws-cdk/aws-iam": "^1.128.0",
+    "@aws-cdk/aws-stepfunctions": "^1.128.0",
     "@aws-cdk/core": "1.128.0"
   }
 }
